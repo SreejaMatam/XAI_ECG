@@ -1,0 +1,5 @@
+pydicom
+pyCompare
+antropy
+tdqm
+neurokit2
